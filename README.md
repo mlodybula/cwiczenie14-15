@@ -1,1 +1,1 @@
-# cwiczenie14-15
+# cw1-6
